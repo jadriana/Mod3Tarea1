@@ -1,7 +1,7 @@
 # FRAMEWORK DE PRUEBAS
-### Tarea 1 - Modulo de Automatización Movile. 
-## Descripcion
-#### 1.- Se elaboró un plan de pruebas en base al presente proyecto
+### Tarea 1 - Módulo de Automatización Movile. 
+## Descripción
+#### 1.- Se elaboró un plan de pruebas en base al presente proyectoCancel changes
 #### 2.- Se automatizaron los siguientes casos de pruebas:
 1. Verificación de la creación de una tarea en la aplicación.
 2. Verificación de la actualización de una tarea en la aplicación.
